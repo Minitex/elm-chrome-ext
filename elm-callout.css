@@ -1,0 +1,52 @@
+iframe {
+  height: 400px;
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+}
+
+.elm-wrap a {
+  display: block;
+  text-decoration: none;
+  color: #222222;
+  width: 100%;
+}
+
+.elm-content {
+  text-align: center;
+}
+
+.elm-content h1 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+.elm-content img {
+  width: 50%;
+}
+
+.elm-content p {
+  font-size: 200%;
+  color: #666666;
+}
+
+.elm-content ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-inline-start: 0;
+  font-size: 115%;
+}
+
+p.elm-tagline {
+  font-weight: bold;
+}
+
+p.elm-url {
+  color: blue;
+}
