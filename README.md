@@ -7,7 +7,7 @@ Here are some potential modifications and tips for how to accomplish them:
 ### Overall Changes
 To change the name and/or description of the extension, edit the relevant declarations in manifest.json.
 
-You will also need to create derivatives of the extension logo at the following sizes (in pixels):
+You will also need to create derivatives - in PNG format only - of the extension logo at the following sizes (in pixels):
 
 * 16 x 16
 * 32 x 32
